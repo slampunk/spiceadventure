@@ -4,7 +4,7 @@ main {
     background: var(--content-bg);
 
     .hero {
-        background-image: url('/images/food.jpeg');
+        background-image: url('../images/food.jpeg');
         background-size: cover;
         background-position: 50% 50%;
         min-height: calc(100vh - 7rem);
