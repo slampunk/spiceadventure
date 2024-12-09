@@ -1,0 +1,28 @@
+:root {
+    --light-bg: white;
+    --dark-bg: black;
+    --light-text-color: black;
+    --dark-text-color: white;
+    --alternate-text-color: var(--dark-text-color);
+    --text-color: var(--light-text-color);
+    --header-bg: var(--light-bg);
+    --header-text-color: var(--text-color);
+    --header-box-color: rgba(0,0,0,0.2);
+    --content-bg: white;
+    --footer-bg: var(--dark-bg);
+    --footer-text-color: var(--dark-text-color);
+    --icon-brightness: brightness(600%);
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --header-bg: var(--dark-bg);
+        --text-color: var(--dark-text-color);
+        --alternate-text-color: var(--light-text-color);
+        --content-bg: #111213;
+        --footer-bg: var(--light-bg);
+        --footer-text-color: var(--light-text-color);
+        --icon-brightness: brightness(100%);
+        --header-box-color: rgba(128, 128, 128, 0.1);
+    }
+}

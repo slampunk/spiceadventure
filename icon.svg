@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 400 400" width="400" height="400">
+    <circle fill="#9cc8c5" cx="50%" cy="50%" r="190" />
+    <circle fill="none" cx="50%" cy="50%" r="132" stroke="white" stroke-width="4" stroke-dasharray="1119" stroke-dashoffset="480" transform="rotate(25, 200, 200)" />
+    <circle fill="white" cx="331.75" cy="208" r="6" />
+    <circle fill="white" cx="328" cy="168" r="6" />
+    <circle fill="white" cx="313" cy="132" r="6" />
+    <path
+        d="M 68,200 
+            q 2 -50 -16 -64
+            c 4 20 -2 40 16 64"
+        fill="none" stroke="white" stroke-width="4"
+        />
+    <path
+        d="M 69,188
+            c 16 -20 36 -28 32 -52
+            c -2 16 -36 30 -32 52"
+        fill="none" stroke="white" stroke-width="4"
+        />
+    <path
+        d="M 69,188
+            c 16 -20 36 -28 32 -52
+            c -2 16 -36 30 -32 52"
+        fill="none" stroke="white" stroke-width="4"
+        />
+    <path
+        d="M 71,170
+            q -5 -33 9 -66
+            q 5 33 -9 66
+            "
+        fill="none" stroke="white" stroke-width="4"
+        />
+    <path
+        d="M 81,143
+            q 20 -26 47 -30
+            c -16 20 -32 20 -47 30
+            "
+        fill="none" stroke="white" stroke-width="4"
+        />
+    <path
+        d="M 85,135
+            c 5 -10 28 -26 17 -64
+            c 5 20 -20 40 -17 64
+            "
+        fill="none" stroke="white" stroke-width="4"
+        />
+    <path
+        d="M 104,110
+            c 25 -10 50 8 70 -17
+            c -15 12 -50 -5 -70 17
+            "
+        fill="none" stroke="white" stroke-width="4"
+        />
+    <path
+        d="M 112,102
+            c 16 -20 40 -18 49 -49
+            c -15 26 -50 18 -49 49
+            "
+        fill="none" stroke="white" stroke-width="4"
+        />
+</svg> 
